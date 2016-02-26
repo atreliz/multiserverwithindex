@@ -1,0 +1,15 @@
+
+
+h1{ color:black; text-align: center; padding: 10px; border: 2px black solid; border-radius: 5px;}
+
+#container{
+	padding: 10px; border: 2px black solid; border-radius: 5px;
+}
+
+ul{
+	list-style: none;
+}
+li{padding: 5px 0px;}
+a{ text-decoration: none;     text-transform: uppercase;}
+
+a:hover{color:red; font-weight: bold;}
